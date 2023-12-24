@@ -1,0 +1,30 @@
+https://github.com/Kobra420/My_Pythone_Notes_Collections
+https://github.com/users/BiswaPradip/succession/invitation
+
+
+
+& has a special meaning in HTML, it means the start of an 'entity'.
+To output a & itself, use the entity &amp;.
+There are 5 entities common to HTML and XML, &amp;, &lt; (<), &gt; (>), &quot; (") and &apos; ('),
+although the last two are often only necessary in attribute values.
+
+
+
+
+&lt; this stands for the less-than sign ( < )
+&gt; this stands for the greater-than sign ( > )
+&le; this stands for the less-than or equals symbol ( ≤ )
+&ge; this stands for the greater-than or equals sign ( ≥ )
+
+
+Udemy_Angela_4romD7
+update_work
+
+
+The player guessing the word may, at any time, attempt to guess the whole word.
+If the word is correct, the game is over and the guesser wins.
+Otherwise, the other player may choose to penalize the guesser by adding an element to the diagram.
+On the other hand, if the guesser makes enough incorrect guesses to allow the other player to complete
+ the diagram, the guesser loses. However, 
+the guesser can also win by guessing all the letters that appear in the word, 
+thereby completing the word, before the diagram is completed.

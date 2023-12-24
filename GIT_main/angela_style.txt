@@ -1,0 +1,124 @@
+################--HTML--#####################
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>100 Days Code The Complete Python for 2023_UDEMY_Dr.Angela </title>
+    
+    <link rel="stylesheet" href="../public/style_angela.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Shrikhand&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>&#129422;100 Days of Code The Complete Python Pro Bootcamp for 2023 &#129422;<br> <hr> Notes from Udemy_Angela</h1><br>
+        <h2>Day 7 - Beginner - Hangman Project</h2> <br>
+    </header>
+    
+        <h3>The game Details:</h3>
+            <p>
+
+            </p>
+                <div id="code0">
+                    <ul>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </div>
+        
+        <h3>Neccesary functions required for Hangman-Project</h3>
+            <p>
+
+            </p>
+                <div>
+                    <ul>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </div>
+    <footer>
+        <b>References:-</b> <br>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+        </ul>
+        <p>Copyright &copy; Biswa 2023</p>
+    </footer>
+               
+            
+</body>
+</html>
+
+###################css##################
+
+
+*{
+    padding: 2px;
+    margin: 4px;
+    box-sizing: border-box;
+    background-color: #FFB000;
+    border: 15em;
+}
+
+header{
+    background-color: #FFB000;
+}
+
+hr{
+    background-color: #016A70;
+    width: 70%;
+    height: 0.5px;
+}
+
+h1{
+    font-family: 'Shrikhand', cursive;
+    color: #219C90;
+    
+    font-size: 35px;
+    font-weight: 900;
+}
+
+h2{
+    color: #004225;
+    font-size: 25px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 850;
+}
+
+h3{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 20px;
+    color: #004225;
+    font-weight: 800;
+
+}
+
+#code0{
+    font-family: 'Martian Mono', monospace;
+    font-size: 15px;
+    color: #016A70;
+    font-weight: 600;
+}
+
+p{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 20px;
+    color: #451952;
+    font-weight: 650;
+}
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #15133C;
+    font-weight: 700;
+}
